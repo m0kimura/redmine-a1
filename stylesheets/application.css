@@ -4,7 +4,7 @@
 
 
 #header {
-	background: #394956;
+	background: #143872;
 	min-height: 5em;
 	padding: 0px;
 	min-height: initial;
@@ -36,19 +36,19 @@ h1, h2, h3, h4 {
 html, #wrapper {
 	background: #f3f3f3;
 }
-body { 
+body {
 	font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif;
 	font-size: 13px;
 }
 
-#main { 
-	background: transparent; 
+#main {
+	background: transparent;
 	margin: 25px 25px 0px 25px;
 }
 
 #top-menu {
 	background-color: #252525;
-	color: #ccc;	
+	color: #ccc;
  	padding: 7px 10px 2px 20px;
 }
 
@@ -109,7 +109,7 @@ div#content > #add-message > h2 ,
 div#content > .message.details > h2 ,
 div#content > .board.details > h2 ,
 div#content > #add-document > h2 {
-	background: #EAF2F5;
+	background: #a9c6f4;
 	padding: 12px 20px;
 	margin: -6px -10px 10px;
 	letter-spacing: -1px;
@@ -166,7 +166,7 @@ p.breadcrumb {
 }
 
 div#content > div.contextual,
-.controller-timelog div#content .contextual, 
+.controller-timelog div#content .contextual,
 .controller-time_entry_reports div#content .contextual {
 	margin-top: 11px;
 	margin-right: 10px;
@@ -201,7 +201,7 @@ div#welcome-store-content h4 {
 }
 
 #content, #main.nosidebar #content {
-	background: #fff;
+	background: #d4e2f9;
 	border: 1px solid #d3d3d3;
 	box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.05);
 }
@@ -254,14 +254,14 @@ h2, h3, h4, .wiki h1, .wiki h2, .wiki h3 {border-bottom: 0px;}
 	box-sizing: border-box;
 }
 
-#main-menu ul { 
+#main-menu ul {
 	padding: 0px 20px;
 }
-#main-menu li { 
+#main-menu li {
 	margin: 0px;
 	padding: 13px 0px;
 	float: none;
-	display: inline-block;	
+	display: inline-block;
 }
 
 #main-menu li a,
@@ -290,12 +290,12 @@ h2, h3, h4, .wiki h1, .wiki h2, .wiki h3 {border-bottom: 0px;}
 	border: 1px solid #666;
 	border-right: none;
 	border-bottom: none;
-	background-color: #666;	
+	background-color: #666;
 }
 
 #main-menu li a.selected:hover {
 	color: #e0e0e0;
-	background-color: #666;	
+	background-color: #666;
 }
 
 #main-menu .menu-children {
@@ -463,7 +463,7 @@ input[type="submit"].small {
 	line-height: 10px;
 	font-size: 90%;
 	font-weight: bold;
-	box-shadow: 0 3px 0px #a0a0a0;	
+	box-shadow: 0 3px 0px #a0a0a0;
 }
 
 
@@ -762,7 +762,7 @@ body.action-login #main.nosidebar #content {
 
 #content .tabs ul li a {
 	border-radius: 0px;
-	padding: 5px 10px;	
+	padding: 5px 10px;
 	border-color: #e5e5e5;
 }
 
@@ -834,13 +834,13 @@ body.action-login #main.nosidebar #content {
 
 div.tabs-buttons {
 	background: transparent;
-	border-bottom-color: #e5e5e5;	
+	border-bottom-color: #e5e5e5;
 }
 
 button.tab-left, button.tab-right {
 	border-color: #e5e5e5;
 	height: 27px;
-	border-radius: 0px;	
+	border-radius: 0px;
 }
 
 /* Pagination */
@@ -1307,28 +1307,28 @@ input.autocomplete {
   border: 1px solid #d7d7d7;
   border-radius: 0px;
   height: 23px;
-  outline: none;  
+  outline: none;
 }
 
 
 .theme-A1 .select2-container--default .select2-selection--multiple {
   border: 1px solid #d7d7d7;
   border-radius: 0px;
-  outline: none;  
+  outline: none;
 }
 
 .theme-A1 .select2-container--default.select2-container--open .select2-selection,
 .theme-A1 .select2-container--default .select2-selection:focus,
 .theme-A1 .select2-container--default.select2-container--focus .select2-selection--single,
 .theme-A1 .select2-container--default.select2-container--focus .select2-selection--multiple {
-	border-color: #4f9abd;	
+	border-color: #4f9abd;
 }
 
 .theme-A1 .select2-container--default .select2-selection--single .select2-selection__rendered {
-  padding-left: 24px;  
+  padding-left: 24px;
   line-height: 25px;
   font-size: 12px;
-  outline: none;  
+  outline: none;
 }
 
 .theme-A1 .select2-container--default .select2-selection--multiple .select2-selection__rendered {
@@ -1337,11 +1337,11 @@ input.autocomplete {
 
 .theme-A1 .select2-container--default .select2-selection--single .select2-selection__arrow {
   height: 25px;
-  outline: none;  
+  outline: none;
 }
 
 .theme-A1 .select2-container--default .select2-selection--single .select2-selection__arrow b {
-  border-color: #afafaf transparent transparent transparent;	
+  border-color: #afafaf transparent transparent transparent;
 }
 .theme-A1 .select2-dropdown {
   border: 1px solid #4f9abd;
@@ -1365,8 +1365,8 @@ input.autocomplete {
 		background-color: #394956;
 	}
 
-	div#content > div.contextual, 
-	.controller-timelog div#content .contextual, 
+	div#content > div.contextual,
+	.controller-timelog div#content .contextual,
 	.controller-time_entry_reports div#content .contextual {
 		margin-top: 0px;
 		margin-right: 0px;
